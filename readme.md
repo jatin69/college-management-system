@@ -9,8 +9,8 @@ The idea to was begin with -
 
 ## Dev
 
-- I have tried to upload all the files of the project
-- All the relevant documents and data dumps are also kept in the repo.
+- The project was originally made in Nov 2016 as part of the subject - Internet Technologies. JSP was used to make this project.
+- I have tried to upload all the files of the project. All the relevant documents and data dumps are also kept in the repo.
 - Because the project is very old at the time of upload, some files may be missing. All files including the web libraries are uploaded as it is, so that it is a bit predictable when trying to run it the next time. 
 - However, dependency jar files were very large and are not kept in the repo. - Use `netbeans` to open the project `tesla` in `src` folder and try to resolve dependencies using netbeans. 
 
